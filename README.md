@@ -9,7 +9,7 @@ alterações no clone
 Objetivo: Criar um repositório público no GitHub, adicionar um colaborador, ambos clonarem o repositório em suas máquinas locais, fazerem alterações, commits.
 
 ---------------------------------
-🗂️ Criar um repositório público
-👥 Adicionar um colaborador
-💻 Clonar o repositório localmente
-✏️ Fazer alterações e commits
+- [x] 🗂️ Criar um repositório público
+- [x] 👥 Adicionar um colaborador 
+- [x] 💻 Clonar o repositório localmente
+- [ ] ✏️ Fazer alterações e commits
